@@ -1,0 +1,35 @@
+Merits of CMS:
+
+---This is a program which can be used for managing 
+   and tracking transportation of cargo/freights.
+
+---This software is exclusively made for managing 
+   import and export details.
+
+---Also, It helps the user to easily insert, fetch,
+   update and delete the content.
+
+---This software also lets only the Admin to access
+   the data so as to prevent unknown person access 
+   the data.
+
+---This software will allow only one person to 
+   register themselves.
+
+---Also this software tracks the login history of 
+   the user to check if anyone else has tried to 
+   login the software.
+
+---If the user wants to delete their account the 
+   user can delete their account along with their 
+   data.
+
+---This software also manages the employee details.
+
+
+Precautions:
+
+---Enter Password with care.
+
+---Use Show password if needed.
+
